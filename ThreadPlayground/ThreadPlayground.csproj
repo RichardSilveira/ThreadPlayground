@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>ThreadPlayground</AssemblyName>
+    <RootNamespace>ThreadPlayground</RootNamespace>
+  </PropertyGroup>
+
+</Project>
