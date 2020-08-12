@@ -1,6 +1,0 @@
-https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/
-
-esse curso que vou fazer:
-https://www.udemy.com/parallel-csharp/
-
-ou esse:
